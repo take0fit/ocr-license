@@ -1,0 +1,2 @@
+google-cloud-vision>=3.7.4
+lxml==4.9.1  # XMLを処理するためのライブラリ
